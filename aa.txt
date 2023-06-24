@@ -1,3 +1,4 @@
+MAXI
 como crear un archivo desde consola  
 **New-Item -ItemType File -Path entre "aa.txt" 
 y como escribir dentro del archivo
